@@ -1,0 +1,8 @@
+name: ${project.name}
+version: ${project.version}
+main: ${main.class}
+
+permissions:
+  mybb.account:
+    description: Granted to players that have accounts on the forum.
+    default: false

@@ -1,0 +1,10 @@
+mysql:
+  hostname: localhost
+  port: 3306
+  username: root
+  password: ''
+  schema: mybb
+  prefix: mybb_
+
+account:
+  field: 4
